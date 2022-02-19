@@ -94,7 +94,7 @@ Modyfikuje dietę o podanym id, body podobne jak w przypadku dodawania diety + i
 * DELETE api/diet/{id}\
 Usuwa dietę o podanym id
 
-**3. UserController**
+**4. UserController**
 * POST api/user\
 Dodaje użytkownika do systemu
 Przykładowe zapytanie: \
